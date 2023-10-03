@@ -2,41 +2,14 @@
 👨‍⚖️CURSO COMPRETO DE TYPESCRIPT.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=TypeScript) 
+
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://www.typescriptlang.org/docs/) <br>
 
-[![GitHub Repo stars](https://img.shields.io/badge/CODIGO-FONTE-03A9F4?logo=github)](https://github.com/glaucia86/curso-typescript-zero-to-hero) 
-[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20DE-TYPESCRIPT-03A9F4?logo=youtube)](https://youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H&si=5ViSzS_KvEniyc1Q) 
+[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H&si=5ViSzS_KvEniyc1Q)
 <br>
 
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" align="center" width="280"> <br>
-
-## 💥REQUESITOS:
-* 🤯[SABER JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* 🤯[SABER NODEJS](https://github.com/VILHALVA/CURSO-DE-NODEJS)
-* 💻[INSTALAR O VISUAL STUDIO CODE](https://code.visualstudio.com/download)
-
-## [🐱‍👤TEMÁTICAS:](https://youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H&si=5ViSzS_KvEniyc1Q)
-* ✅ SOBRE A LINGUAGEM
-* ✅ CONFIGURANDO O AMBIENTE
-* ✅ VARIAVEIS E TIPOS PRIMITIVOS
-* ✅ ESTRUTURAS CONDICIONAIS 
-* ✅ REPETIÇÕES WHILE
-* ✅ REPETIÇÕES FOR
-* ✅ VARIAVEIS COMPOSTAS
-* ✅ TIPOS DE DADOS
-* ✅ FUNÇÕES
-* ✅ PARAMETERS
-* ✅ CLASSES
-* ✅ ACCESS MODIFIER
-* ✅ GETTERS E SETTERS
-* ✅ INHERITANCE
-* ✅ STATIC MEMBERS
-* ✅ ABSTRACT CLASSES
-* ✅ INTERFACES
-* ✅ TYPES
-* ✅ SATISFIES OPERATOR
-* ✅ GENERICS
-* ✅ MODULES
 
 ## 🤠EXECUTANDO O CÓDIGO
 Você pode executar programas TypeScript tanto pelo Prompt de Comando (CMD) quanto pelo Visual Studio Code. Aqui estão os passos básicos para fazer isso em ambos os ambientes:
@@ -89,11 +62,8 @@ O Visual Studio Code é uma IDE que oferece suporte nativo ao TypeScript e facil
 
 O Visual Studio Code simplifica muito o desenvolvimento em TypeScript, pois integra automaticamente o processo de compilação e execução, tornando-o uma ótima escolha para trabalhar com TypeScript.
 
-## 💌VIDEOS DO YOUTUBE:
-* [CALCULO DA MEDIA COM TYPESCRIPT](https://youtu.be/jo22sibFPYo?si=qpUUEuVsxi3fJMs4)
-* [CRIANDO CLASSE POO CARRO EM TYPESCRIPT](https://youtu.be/02FjWsKEu0M?si=qcCaN3k6Vj4XWa1W)
-
 ![](https://i.imgur.com/waxVImv.png)
+
 # 👀VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
 | :---: | :---: |
