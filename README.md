@@ -2,14 +2,10 @@
 👨‍⚖️TYPESCRIPT É UMA LINGUAGEM DE PROGRAMAÇÃO.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=TypeScript) 
-
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://www.typescriptlang.org/docs/) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H&si=5ViSzS_KvEniyc1Q)
 <br>
-
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" align="center" width="280"> <br>
 
 ## 🤠EXECUTANDO O CÓDIGO
 Você pode executar programas TypeScript tanto pelo Prompt de Comando (CMD) quanto pelo Visual Studio Code. Aqui estão os passos básicos para fazer isso em ambos os ambientes:
