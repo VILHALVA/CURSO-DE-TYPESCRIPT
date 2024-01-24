@@ -58,8 +58,6 @@ O Visual Studio Code é uma IDE que oferece suporte nativo ao TypeScript e facil
 
 O Visual Studio Code simplifica muito o desenvolvimento em TypeScript, pois integra automaticamente o processo de compilação e execução, tornando-o uma ótima escolha para trabalhar com TypeScript.
 
-![](https://i.imgur.com/waxVImv.png)
-
 # 👀VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
 | :---: | :---: |
