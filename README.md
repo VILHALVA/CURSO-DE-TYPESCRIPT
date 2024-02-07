@@ -67,7 +67,7 @@ O TypeScript é uma linguagem que se baseia no JavaScript, mas adiciona caracter
     - O TypeScript tem uma comunidade ativa e crescente e um ecossistema robusto de bibliotecas e ferramentas de desenvolvimento.
     - É amplamente adotado por grandes empresas e projetos de código aberto, o que aumenta a disponibilidade de recursos e suporte.
 
-## CARACTERISTICAS DA LINGUAGEM:
+## CARACTERISTICAS:
 ### POSITIVAS:
 1. **Tipagem Estática Opcional**: O TypeScript permite a definição de tipos de dados para variáveis, parâmetros de função e valores de retorno de função, o que ajuda a capturar erros de tipo em tempo de compilação e a aumentar a segurança e a robustez do código. No entanto, a tipagem é opcional, permitindo flexibilidade quando necessário.
 
