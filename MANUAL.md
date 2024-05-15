@@ -3,33 +3,62 @@
 Você pode executar programas TypeScript tanto pelo Prompt de Comando (CMD) quanto pelo Visual Studio Code. Aqui estão os passos básicos para fazer isso em ambos os ambientes:
 
 ### EXECUTANDO PELO CMD:
-1. **Verifique a Instalação**: Certifique-se de que você tenha o TypeScript instalado globalmente em sua máquina. Você pode verificar isso executando o seguinte comando no CMD:
+1. **Fazendo a Instalação globalmente**: Instale o TypeScript globalmente usando o seguinte comando:
 
-   ```bash
-   tsc -v
-   ```
+```bash
+npm install -g typescript
+```
 
-   Isso deve exibir a versão do TypeScript, o que significa que está instalado corretamente.
+Isso instalará o TypeScript globalmente em seu sistema, permitindo que você use o comando `tsc` em qualquer lugar do terminal. Se prefirir, pode optar por fazer a instalação localmente:
 
-2. **Crie um Arquivo TypeScript**: Crie um arquivo TypeScript (com a extensão `.ts`) em um diretório de sua escolha.
+2. **Fazendo a Instalação Localmente**: Instale o TypeScript localmente usando o seguinte comando:
 
-3. **Escreva seu Código TypeScript**: Abra o arquivo `.ts` em um editor de texto ou IDE de sua escolha e escreva seu código TypeScript.
+```bash
+npm init -y
+```
 
-4. **Compilação TypeScript**: No CMD, navegue até o diretório onde está localizado o arquivo `.ts` e execute o seguinte comando para compilar o TypeScript em JavaScript:
+```bash
+npm install typescript @types/node
+```
 
-   ```bash
-   tsc arquivo.ts
-   ```
+Isso instalará o TypeScript localmente em `node_modules`, permitindo que você use o comando `npx tsc` dentro do seu projeto.
 
-   Isso irá gerar um arquivo JavaScript correspondente com o mesmo nome (por exemplo, `arquivo.js`) no mesmo diretório.
+3. **Verifique a Instalação**: Você pode verificar isso executando o seguinte comando no CMD:
 
-5. **Execute o Código JavaScript**: Agora que você tem o arquivo JavaScript, pode executá-lo normalmente usando o Node.js, por exemplo:
+```bash
+tsc -v
+```
 
-   ```bash
-   node arquivo.js
-   ```
+Isso deve exibir a versão do TypeScript, o que significa que está instalado corretamente.
 
-   Isso executará o código JavaScript resultante.
+4. **Crie um Arquivo TypeScript**: Crie um arquivo TypeScript (com a extensão `.ts`) em um diretório de sua escolha.
+
+5. **Escreva seu Código TypeScript**: Abra o arquivo `.ts` em um editor de texto ou IDE de sua escolha e escreva seu código TypeScript. Exemplo:
+```typescript
+console.log("OLÁ MUNDO!");
+```
+
+6. **Compilação TypeScript**: No CMD, navegue até o diretório onde está localizado o arquivo `.ts` e execute o seguinte comando para compilar o TypeScript em JavaScript:
+
+```bash
+tsc arquivo.ts
+```
+
+OU:
+
+```bash
+npx tsc arquivo.ts
+```
+
+Isso irá gerar um arquivo JavaScript correspondente com o mesmo nome (por exemplo, `arquivo.js`) no mesmo diretório.
+
+7. **Execute o Código JavaScript**: Agora que você tem o arquivo JavaScript, pode executá-lo normalmente usando o Node.js, por exemplo:
+
+```bash
+node arquivo.js
+```
+
+Isso executará o código JavaScript resultante.
 
 ### EXECUTANDO PELO VISUAL STUDIO CODE:
 O Visual Studio Code é uma IDE que oferece suporte nativo ao TypeScript e facilita a execução de código TypeScript.
