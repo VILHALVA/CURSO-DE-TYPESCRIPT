@@ -120,6 +120,6 @@ O TypeScript é uma linguagem que se baseia no JavaScript, mas adiciona caracter
 - [VEJA A DOCUMENTAÇÃO](https://www.typescriptlang.org/docs/)
 - [BASEADA NO JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 - [VEJA O MANUAL](./MANUAL.md)
-- [VEJA A COPILAÇÃO](./COPILACAO.md)
+- [VEJA O APÊNDICE](./APENDICE.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=+topic:TYPESCRIPT)
