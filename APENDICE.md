@@ -1,6 +1,4 @@
 # APÊNDICE
----
-
 ## RECURSOS QUE O TYPESCRIPT TEM QUE O JAVASCRIPT NÃO TEM:
 TypeScript oferece diversos recursos avançados que o JavaScript não possui nativamente, tornando-o uma escolha popular para grandes projetos de desenvolvimento front e backend. Aqui estão alguns dos principais recursos que destacam o TypeScript em relação ao JavaScript:
 
